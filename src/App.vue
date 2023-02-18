@@ -1,5 +1,6 @@
 <template>
     <app-navbar/>
+    <app-u-s-p-bar/>
     <router-view/>
     <app-footer/>
 </template>
@@ -7,12 +8,15 @@
 <script>
 import AppNavbar from '../src/components/AppNavbar.vue'
 import AppFooter from '../src/components/AppFooter.vue'
+import AppUSPBar from '../src/components/AppUSPBar.vue'
+
 
 
 export default {
   components: {
     AppNavbar,
-    AppFooter
+    AppFooter,
+    AppUSPBar
   },
 }
 
