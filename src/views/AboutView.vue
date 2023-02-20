@@ -13,13 +13,17 @@
       <div>
         <img src="../assets/molumen_phone_icon.svg" width="50" height="50" alt="">
       </div>
-      <div>
-        <a href="Tel:07907 182801">
-      <p class="text-white">Mobile - 07907 182801</p>
+      <div class="space-y-4">
+        <div>
+          <a href="Tel:07907 182801">
+      <p class="text-white">Mobile -  Ste - 07907 182801 - Liam - 07565509960</p>
     </a>
-    <a href="Tel:01942 619912">
+        </div>
+       <div>
+        <a href="Tel:01942 619912">
       <p class="text-white">Office - 01942 619912</p>
     </a>
+       </div>
       </div>
     </div>
 
