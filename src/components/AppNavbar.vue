@@ -1,7 +1,10 @@
 <template>
   <div class="app-navbar flex justify-between items-center">
     <div>
+      <router-link to="/">
         <img src="../assets/dent-tech-logo.jpeg" width="200" height="100" class="rounded-xl" alt="">
+
+      </router-link>
       </div>
     <div>
       <nav class="mr-10 text-white text-xl font-semibold space-x-2">

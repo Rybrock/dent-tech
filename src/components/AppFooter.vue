@@ -18,7 +18,9 @@
       >
         <div class="flex flex-col justify-center items-center">
           <p class="text-xs">Find us on Facebook</p>
-          <img src="../assets/icons8-facebook.svg" alt="" />
+          <a href="https://www.facebook.com/profile.php?id=100087966960493" target="_blank">
+            <img src="../assets/icons8-facebook.svg" alt="" />
+          </a>
         </div>
 
         <div class="flex flex-col justify-center items-center">
